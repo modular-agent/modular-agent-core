@@ -1,3 +1,11 @@
+> [!IMPORTANT]
+> **このリポジトリは移動しました。** 開発は
+> [modular-agent monorepo](https://github.com/modular-agent/modular-agent) の [`crates/modular-agent-core`](https://github.com/modular-agent/modular-agent/tree/main/crates/modular-agent-core) で継続しています。
+>
+> コミット履歴はすべて引き継がれているため、移動先でも `git log` / `git blame` が遡れます。
+> このリポジトリはアーカイブされ、読み取り専用です。移動直前の状態には `pre-monorepo`
+> タグが付いています。
+
 <div align="center">
 
 <img alt="Modular Agent" width="150" height="150" src="https://raw.githubusercontent.com/modular-agent/modular-agent-core/main/doc/images/Square150x150Logo.png">
